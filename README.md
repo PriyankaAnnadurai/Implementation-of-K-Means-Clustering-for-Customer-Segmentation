@@ -9,16 +9,14 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1. 
-2. 
-3. 
-4. 
+
 
 ## Program:
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: 
-RegisterNumber:  
+Developed by: PRIYANKA.A
+RegisterNumber:  212222230113
 */
 ```
 
